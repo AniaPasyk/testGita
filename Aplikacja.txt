@@ -9,3 +9,10 @@
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika microsoft");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
